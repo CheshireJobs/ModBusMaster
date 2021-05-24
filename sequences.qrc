@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>rcTest.stnd</file>
+    </qresource>
+</RCC>

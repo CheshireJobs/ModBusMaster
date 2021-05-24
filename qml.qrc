@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>MainWindow.qml</file>
+        <file>Diagnostics.qml</file>
+        <file>Settings.qml</file>
+        <file>Log.qml</file>
+        <file>InterfacesTab.qml</file>
+        <file>TypeCarTestTab.qml</file>
+        <file>DevicePage.qml</file>
+        <file>CustomTestPage.qml</file>
+        <file>AnalogPage.qml</file>
+        <file>DiscretePage.qml</file>
+        <file>TimerPage.qml</file>
+        <file>AutoTestPage.qml</file>
+        <file>SettingsPage.qml</file>
+    </qresource>
+</RCC>
